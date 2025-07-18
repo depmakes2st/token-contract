@@ -1,0 +1,11 @@
+{
+  "name": "ElbaCoin",
+  "symbol": "ELBA",
+  "decimals": 9,
+  "address": "EQDr2wjYfTjF1b2n_LbMDX4rZFhnTpdSZUF3KhNySorxrVC5",
+  "description": "Official ElbaCoin on TON Network. A token for the Elba Adalid Media ecosystem.",
+  "website": "https://www.elbaadalidmedia.com",
+  "social": {
+    "telegram": "https://t.me/elbaadalid"
+  }
+}
